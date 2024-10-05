@@ -10,7 +10,7 @@ I am a Data Scientist at [Airbus](https://www.airbus.com/en) (Toulouse) in Franc
 
 # Publications
 
-**DCH : Génération de Trafic Réseau Réaliste par Apprentissage Profond**  
+**DCH: DCH: A Deep Learning Approach To Universal Header Compression For The Internet of Things**  
 *[MSWIM 2023](https://mswimconf.com/2023/)*  
 [Paper](https://dl.acm.org/doi/10.1145/3616388.3617522) | [Github](https://github.com/fmeslet/DCH) 
 
